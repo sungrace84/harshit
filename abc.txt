@@ -1,0 +1,11 @@
+hi
+
+1. git init (whatever folder we want to link with our git repository) 
+
+2. we need to add remote origin file / branch
+
+3. git add (adding all the files we need in our local branch)
+
+4. git commit (to check if files added)
+
+5. git push remote origin (push all files in master files) - git hub master
